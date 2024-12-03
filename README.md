@@ -1,0 +1,1 @@
+Responsive animated page
